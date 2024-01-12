@@ -9,7 +9,7 @@ package org.proyectos.proyecto.dto;
  * @author campo
  */
 public class PersonaDto {
-    private Integer id;
+    private Integer id; // id de persona
     private String identificacion;
     private String nombre;
     private String apellido;
