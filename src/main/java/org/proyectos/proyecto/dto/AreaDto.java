@@ -9,8 +9,8 @@ package org.proyectos.proyecto.dto;
  * @author campo
  */
 public class AreaDto {
- private Integer id;
- private String descripcion;
+ private Integer id; // id de area
+ private String descripcion; // descripcion area
 
     public AreaDto() {
         
