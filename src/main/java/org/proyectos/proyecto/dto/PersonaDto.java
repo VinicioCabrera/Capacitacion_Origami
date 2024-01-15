@@ -10,7 +10,7 @@ package org.proyectos.proyecto.dto;
  */
 public class PersonaDto {
     private Integer id; // id de persona
-    private String identificacion;
+    private String identificacion; // identificacion
     private String nombre;
     private String apellido;
 
